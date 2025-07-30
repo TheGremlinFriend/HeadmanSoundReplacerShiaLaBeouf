@@ -1,0 +1,20 @@
+{
+    "replacements": [
+        {
+            "matches": [ "*:headman chase loop"],
+           "sounds": [
+                {
+                    "sound": "ShiaLaBeouf.mp3",
+					"weight": "50",
+					
+                },
+				 {
+                    "sound": "ShiaLaBeoufV2.mp3",
+					"weight": "50",
+					
+                }
+            ]
+        }
+    ]
+}
+
